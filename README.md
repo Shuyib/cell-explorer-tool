@@ -11,6 +11,3 @@ This will create an environment called **cell-exp**. You can activate it  like t
 
     `source activate cell-exp`
 
-* In your terminal, in the directory where you cloned this repository. Run this command
-
-    `jupyter notebook 
