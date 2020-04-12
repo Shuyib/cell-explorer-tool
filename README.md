@@ -5,9 +5,8 @@ An image explorer tool to look for and refine features from microscopy images fr
 
 Project structure
 ---
-Generated with `tree` bash function.
-
-├── LICENSE - an MIT License 
-├── README.md - an explanation of what the project is about, what kind of data is used and the output.
-├── image-processing-raw-final.ipynb - has documented code to process images at most 4 for some reason.
-└── requirements.txt - Has python libraries in specific versions e.g ipywidgets == 7.5.1
+The project has the following files:
+* LICENSE - an MIT License 
+* README.md - an explanation of what the project is about, what kind of data is used and the output.
+* image-processing-raw-final.ipynb - has documented code to process images at most 4 for some reason.
+* requirements.txt - Has python libraries in specific versions e.g ipywidgets == 7.5.1
