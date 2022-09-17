@@ -10,3 +10,15 @@ The project has the following files:
 * README.md - an explanation of what the project is about, what kind of data is used and the output.
 * image-processing-raw-final.ipynb - has documented code to process images at most 4 for some reason.
 * requirements.txt - Has python libraries in specific versions e.g ipywidgets == 7.5.1
+
+**Running on Docker guide**  
+
+Build docker image
+```bash
+docker build -t cell-exp:v0 .
+```
+
+Run the Docker image
+```bash
+docker run -it -p 2323:2323 cell-exp:v0
+```
