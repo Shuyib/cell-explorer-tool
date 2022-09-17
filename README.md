@@ -12,6 +12,7 @@ The project has the following files:
 * requirements.txt - Has python libraries in specific versions e.g ipywidgets == 7.5.1
 
 **Running on Docker guide**  
+---
 
 Build docker image
 ```bash
